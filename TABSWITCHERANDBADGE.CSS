@@ -1,0 +1,18 @@
+.tab-btn { 
+    padding: 6px 12px; 
+    background: #334155; 
+    border: none; 
+    color: white; 
+}
+.tab-btn.active { 
+    background: #0284c7; 
+    font-weight: bold; 
+}
+.tPane { 
+    padding: 12px; 
+    background: #698fcb; 
+    margin-top: 8px; 
+}
+.hidden { 
+    display: none !important; 
+}
